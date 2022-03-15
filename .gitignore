@@ -1,0 +1,8 @@
+compile_flags.txt
+Makefile
+Templated-BST.mk
+Templated-BST.project
+Templated-BST.workspace
+Templated-BST.txt
+Debug/
+.codelite/
